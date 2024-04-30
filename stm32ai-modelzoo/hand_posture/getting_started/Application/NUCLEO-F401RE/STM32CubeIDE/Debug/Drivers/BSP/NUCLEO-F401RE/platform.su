@@ -1,0 +1,9 @@
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:23:9:l5_platform_init	16	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:31:9:RdByte	40	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:49:9:WrByte	32	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:65:9:WrMulti	48	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:77:9:RdMulti	40	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:93:9:Reset_Sensor	24	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:113:6:SwapBuffer	24	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:133:9:WaitMs	16	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/NUCLEO-F401RE/platform.c:142:9:wait_for_l5_interrupt	16	static,ignoring_inline_asm

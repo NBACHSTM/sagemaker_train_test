@@ -1,0 +1,3 @@
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/Components/VL53L5CX/vl53l5cx_plugin_motion_indicator.c:23:9:vl53l5cx_motion_indicator_init	32	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/Components/VL53L5CX/vl53l5cx_plugin_motion_indicator.c:55:9:vl53l5cx_motion_indicator_set_distance_motion	32	static
+C:/Users/bachirin/OneDrive - STMicroelectronics/Desktop/stm32ai-modelzoo-main (2)/stm32ai-modelzoo-main/hand_posture/getting_started/Drivers/BSP/Components/VL53L5CX/vl53l5cx_plugin_motion_indicator.c:90:9:vl53l5cx_motion_indicator_set_resolution	32	static

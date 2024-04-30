@@ -1,0 +1,4 @@
+vl53l5cx_plugin_detection_thresholds.c:21:9:vl53l5cx_get_detection_thresholds_enable	1
+vl53l5cx_plugin_detection_thresholds.c:34:9:vl53l5cx_set_detection_thresholds_enable	2
+vl53l5cx_plugin_detection_thresholds.c:65:9:vl53l5cx_get_detection_thresholds	18
+vl53l5cx_plugin_detection_thresholds.c:113:9:vl53l5cx_set_detection_thresholds	8

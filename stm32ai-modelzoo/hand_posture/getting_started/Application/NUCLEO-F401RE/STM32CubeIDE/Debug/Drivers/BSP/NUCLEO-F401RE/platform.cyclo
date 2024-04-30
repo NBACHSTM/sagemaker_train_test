@@ -1,0 +1,9 @@
+platform.c:23:9:l5_platform_init	1
+platform.c:31:9:RdByte	1
+platform.c:49:9:WrByte	1
+platform.c:65:9:WrMulti	1
+platform.c:77:9:RdMulti	1
+platform.c:93:9:Reset_Sensor	1
+platform.c:113:6:SwapBuffer	2
+platform.c:133:9:WaitMs	1
+platform.c:142:9:wait_for_l5_interrupt	2
