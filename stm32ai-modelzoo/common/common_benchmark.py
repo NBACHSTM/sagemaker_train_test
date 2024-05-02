@@ -110,27 +110,19 @@ def benchmark_model(cfg, model_path):
 
 
 def get_credentials():
-
-    """ Get user credentials. """
-    if ("stmai_username" and "stmai_password") in os.environ:
-        username = os.environ.get('stmai_username')
-        password = os.environ.get('stmai_password')
-    elif sys.stdin.isatty():
-        username = input("Username: ")
-        password = getpass.getpass("Password: ")
-    else:
-        username = sys.stdin.readline().rstrip()
-        password = sys.stdin.readline().rstrip()
+    username = "bachirin"
+    password = "Naci;sali;2*"
     return username, password
 
 
 def Cloud_analyze(cfg, quantized_model_path):
-
+    username = "bachirin"
+    password = "Naci;sali;2*"
     """ Use STM32Cube.AI STM32Cube.AI Developer Cloud Services to analyze model footprints """
 
     print("[INFO] : To create an account https://stm32ai-cs.st.com/home. Enter credentials:")
     login_success = 0
-    username, password = get_credentials()
+   # username, password = get_credentials()
     for attempt in range(3):
         try:
             ai = Stm32Ai(CloudBackend(str(username), str(password), version="7.3.0"))

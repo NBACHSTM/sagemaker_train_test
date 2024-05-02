@@ -1,0 +1,6 @@
+artifact_location: /home/sagemaker-user/sagemaker_train_test/stm32ai-modelzoo/hand_posture/scripts/training/mlruns/433146477117454168
+creation_time: 1714492659057
+experiment_id: '433146477117454168'
+last_update_time: 1714492659057
+lifecycle_stage: active
+name: handposture

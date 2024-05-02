@@ -1,0 +1,15 @@
+artifact_uri: /home/sagemaker-user/sagemaker_train_test/stm32ai-modelzoo/hand_posture/scripts/training/mlruns/433146477117454168/75b7290077b745078762cefe82541dc7/artifacts
+end_time: 1714643115661
+entry_point_name: ''
+experiment_id: '433146477117454168'
+lifecycle_stage: active
+run_id: 75b7290077b745078762cefe82541dc7
+run_name: '2024_05_02_09_44_55'
+run_uuid: 75b7290077b745078762cefe82541dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714643096074
+status: 3
+tags: []
+user_id: sagemaker-user
